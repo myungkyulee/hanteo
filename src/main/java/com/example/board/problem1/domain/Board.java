@@ -10,6 +10,4 @@ import java.util.List;
 public class Board {
     private Integer id;
     private List<Post> posts;
-
-
 }
